@@ -23,7 +23,7 @@ Feel free to customize the game as needed. You can modify the styles in `style.c
 
 ## Output
 
-
+![image](https://github.com/Janashree2004/tic_tac_toe/assets/142415775/f90d355c-4ad1-4ebb-a4a2-7a598e9202e0)
 
 ## License
 
