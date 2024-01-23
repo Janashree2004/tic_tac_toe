@@ -2,6 +2,10 @@
 
 Create a TIC TAC TOE game using HTML,CSS and JavaScript
 
+## Demo
+
+[Demo!](https://janashree2004.github.io/tic_tac_toe/)
+
 ## How to Play
 
 1. Open the `index.html` file in your web browser.
